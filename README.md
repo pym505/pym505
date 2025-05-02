@@ -6,5 +6,5 @@ Strong in system architecture, data modeling, infrastructure setup, and large-sc
 Previously worked at a top-tier Korean enterprise before transitioning into freelance and startup roles to focus on hands-on engineering.  
 Now based in Japan, building sustainable systems and adapting across domains with flexibility and autonomy.  
 
-- Organize practical design and structural documentation [GitHub Pages](https://pym505.github.io/yongmin-dev/) 
+- [GitHub Pages](https://pym505.github.io/yongmin-dev/)  Organize practical design and structural documentation 
 - [LinkedIn](https://www.linkedin.com/in/yongmin-park-7156181a0/)
