@@ -2,8 +2,8 @@
 
 **8+ years Backend Developer | Korean based in Japan**
 
-- Experience across semiconductor, finance, real estate, and AI industries
-- MySQL/PostgreSQL database design, AWS/GCP infrastructure, REST API development
-- Collaborative team contributor with project leadership experience - focused on creating business value
+Strong in system architecture, data modeling, infrastructure setup, and large-scale data processing.  
+Previously worked at a top-tier Korean enterprise before transitioning into freelance and startup roles to focus on hands-on engineering.  
+Now based in Japan, building sustainable systems and adapting across domains with flexibility and autonomy.  
 
 [GitHub Pages](https://pym505.github.io/yongmin-dev/) | [LinkedIn](https://www.linkedin.com/in/yongmin-park-7156181a0/)
