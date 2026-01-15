@@ -1,6 +1,6 @@
 # Yongmin Park
 
-**9+ years Backend Developer | Korean based in Japan**
+**10+ years Backend Developer | Korean based in Japan**
 
 Strong in system architecture, data modeling, infrastructure setup, and large-scale data processing.  
 Previously worked at a top-tier Korean enterprise before transitioning into freelance and startup roles to focus on hands-on engineering.  
