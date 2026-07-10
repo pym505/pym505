@@ -1,10 +1,9 @@
 # Yongmin Park
 
-**10+ years Backend Developer | Korean based in Japan**
+Software engineer based in Japan.
 
-Strong in system architecture, data modeling, infrastructure setup, and large-scale data processing.  
-Previously worked at a top-tier Korean enterprise before transitioning into freelance and startup roles to focus on hands-on engineering.  
-Now based in Japan, building sustainable systems and adapting across domains with flexibility and autonomy.  
+I build backend systems, internal tools, automation workflows, and independent software products.
 
-- [GitHub Pages](https://pym505.github.io/yongmin-dev/) - actual architecture design experiences and technical retrospectives
-- [LinkedIn](https://www.linkedin.com/in/yongmin-park-7156181a0/)
+Currently working on products at Disupper.
+
+- LinkedIn: https://www.linkedin.com/in/yongmin-park-7156181a0/
